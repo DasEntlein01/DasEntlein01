@@ -26,6 +26,7 @@
 * »  https://discord.gg/patronroleplay
 * »  https://discord.gg/magicservices
 * »  https://discord.gg/prime-scripts
+* * »  https://discord.gg/ferocity
 * »  https://discord.gg/horizonv
 * »  https://flowservice.xyz
 * »  https://e-z.bio/dasentlein
