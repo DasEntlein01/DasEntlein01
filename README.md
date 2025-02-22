@@ -22,15 +22,12 @@
 ---
 
 ### 🛠️ **Projects & Links** | **Projekte & Links** 🔗
-* »  https://discord.gg/prime-scripts
 * »  https://discord.gg/patronroleplay
-* »  https://discord.gg/magicservices
-* »  https://discord.gg/prime-scripts
+* »  https://discord.gg/iconvrp
+* »  https://discord.gg/sfy
 * »  https://discord.gg/ferocity
-* »  https://discord.gg/horizonv
-* »  https://flowservice.xyz
 * »  https://e-z.bio/dasentlein
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasentlein01&label=Profile%20views&color=0e75b6&style=flat" alt="fpowerkeks" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasentlein01&label=Profile%20views&color=0e75b6&style=flat" alt="DasEntlein" /> </p>
