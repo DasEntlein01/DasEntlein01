@@ -23,10 +23,10 @@
 
 ### 🛠️ **Projects & Links** | **Projekte & Links** 🔗
 * »  https://discord.gg/patronroleplay
-* »  https://discord.gg/iconvrp
 * »  https://discord.gg/sfy
 * »  https://discord.gg/ferocity
 * »  https://e-z.bio/dasentlein
+* »  https://prf.lol/dasentlein
 
 ---
 
