@@ -22,12 +22,17 @@
 ---
 
 ### 🛠️ **Projects & Links** | **Projekte & Links** 🔗
-* »  https://discord.gg/patronroleplay
+* »  https://discord.gg/patroncrimelife
 * »  https://discord.gg/sfy
 * »  https://discord.gg/ferocity
 * »  https://e-z.bio/dasentlein
 * »  https://prf.lol/dasentlein
-
+* »  https://discord.gg/naxasleaks
+* »  https://discord.gg/naxasselling
+* »  https://leaks.naxasselling.store
+* »  https://naxasselling.store
+* »  https://discord.gg/skycl
+* »  https://discord.gg/fastcity 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasentlein01&label=Profile%20views&color=0e75b6&style=flat" alt="DasEntlein" /> </p>
