@@ -32,7 +32,6 @@
 * »  https://leaks.naxasselling.store
 * »  https://naxasselling.store
 * »  https://discord.gg/skycl
-* »  https://discord.gg/fastcity 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasentlein01&label=Profile%20views&color=0e75b6&style=flat" alt="DasEntlein" /> </p>
