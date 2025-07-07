@@ -34,3 +34,8 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasentlein01&label=Profile%20views&color=0e75b6&style=flat" alt="DasEntlein" /> </p>
+
+## Socials
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1254476881281941506)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/870702940862677102)](https://discord.com/users/1254476881281941506)
