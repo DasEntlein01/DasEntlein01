@@ -33,4 +33,4 @@
 ## Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1254476881281941506)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1254476881281941506)](https://discord.com/users/1254476881281941506)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1254476881281941506?idleMessage=Ich%20mach%20grad%20gornix&theme=dark)](https://discord.com/users/1254476881281941506)
