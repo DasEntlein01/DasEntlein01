@@ -7,22 +7,11 @@
 - 📫 **How to reach me**: Feel free to connect with me via discord with the username *dasentlein__*.
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I started coding out of pure curiosity, and now it's one of my biggest passions!
-
+- 
 ---
 
-### Hallo! 👋 Ich bin **DasEntlein** (Nico) 🇩🇪
-
-- 👀 **Ich interessiere mich für**: Game Development, Webdesign und Scripting für individuelle FiveM-Server.
-- 🌱 **Ich lerne gerade**: Lua (FiveM), JavaScript, HTML und CSS. Als Autodidakt bin ich immer bereit, meine Fähigkeiten zu erweitern und neue Herausforderungen anzunehmen!
-- 💞️ **Ich möchte zusammenarbeiten an**: Spannenden FiveM-Serverprojekten, Webentwicklung und allem, was Kreativität und Lernen fördert.
-- 📫 **Erreichbar unter**: Du kannst mich kontaktieren über Discord mit dem Namen *dasentlein__*.
-- 😄 **Pronomen**: Er/Ihm
-- ⚡ **Fun Fact**: Ich habe aus reiner Neugierde mit dem Programmieren angefangen, und jetzt ist es eine meiner größten Leidenschaften!
-
----
-
-### 🛠️ **Projects & Links** | **Projekte & Links** 🔗
-* »  https://discord.gg/sfy
+### 🛠️ **Projects & Links**🔗
+* »  https://dasentlein.de
 * »  https://discord.gg/ferocity
 * »  https://e-z.bio/dasentlein
 * »  https://prf.lol/dasentlein
