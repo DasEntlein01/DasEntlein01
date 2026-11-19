@@ -1,5 +1,5 @@
 
-### Hi there! 👋 I’m **DasEntlein** (Nico) 🇬🇧
+### Hi there! 👋 I’m **DasEntlein** (Nico) 
 
 - 👀 **I’m interested in**: Game development, web design, and scripting for custom FiveM servers.
 - 🌱 **I’m currently learning**: Lua (FiveM), JavaScript, HTML, and CSS. As a self-taught developer, I’m always eager to expand my skills and tackle new challenges!
@@ -11,8 +11,8 @@
 ---
 
 ### 🛠️ **Projects & Links**🔗
-* »  https://dasentlein.de
-* »  https://discord.gg/ferocity
+* »  https://dasentlein.at
+* »  https://discord.gg/nuevocity
 * »  https://e-z.bio/dasentlein
 * »  https://prf.lol/dasentlein
 ---
